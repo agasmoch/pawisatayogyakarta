@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "864446259251",
+    "firebase_url": "https://pariwisatayogyakarta-bd55f.firebaseio.com",
+    "project_id": "pariwisatayogyakarta-bd55f",
+    "storage_bucket": "pariwisatayogyakarta-bd55f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864446259251:android:8207aa7773c093674d0346",
+        "android_client_info": {
+          "package_name": "com.dev.agasmfauzan.pariwisatayogyakarta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864446259251-p8ru9j4b5dv4kmh7fr3a4931ceaj62kq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.agasmfauzan.pariwisatayogyakarta",
+            "certificate_hash": "b919896348588085ed2c6e48cb380b046f4021c7"
+          }
+        },
+        {
+          "client_id": "864446259251-grc2obki70ddjd54r0p0tenkq1g46uvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSwmcq_XkjBx0IFDUlMnymomr6uPlCG48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864446259251-grc2obki70ddjd54r0p0tenkq1g46uvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
