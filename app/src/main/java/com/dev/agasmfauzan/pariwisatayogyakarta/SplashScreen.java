@@ -20,7 +20,7 @@ public class SplashScreen extends AppCompatActivity {
                 .withBackgroundColor( Color.parseColor("#074E72") )
                 .withLogo( R.mipmap.ic_launcher )
                 .withHeaderText( "Agas Moch Fauzan M" )
-                .withFooterText( "Copyright 2019" )
+                .withFooterText( "Copyright 2019, Thanks for icon from flaticon/freepik")
                 .withBeforeLogoText( "Pariwisata Yogyakarta" );
 
         config.getHeaderTextView().setTextColor( Color.WHITE );
