@@ -1,31 +1,49 @@
 package com.dev.agasmfauzan.pariwisatayogyakarta;
 
 public class Pariwisata {
-    private String nama_pariwisata;
-    private String alamat_pariwisata;
-    private String detail_parisiwata;
-    private String gambar_pariwisata;
+   int image;
+   String namawisata;
+   String deskripsiwisata;
+   String alamatwisata;
+   public Pariwisata(){
+   }
 
-    public Pariwisata(String nama_pariwisata, String alamat_pariwisata, String detail_parisiwata, String gambar_pariwisata) {
-        this.nama_pariwisata = nama_pariwisata;
-        this.alamat_pariwisata = alamat_pariwisata;
-        this.detail_parisiwata = detail_parisiwata;
-        this.gambar_pariwisata = gambar_pariwisata;
+    public int getImage() {
+        return image;
     }
 
-    public String getNama_pariwisata() {
-        return nama_pariwisata;
+    public void setImage(int image) {
+        this.image = image;
     }
 
-    public String getAlamat_pariwisata() {
-        return alamat_pariwisata;
+    public String getNamawisata() {
+        return namawisata;
     }
 
-    public String getDetail_parisiwata() {
-        return detail_parisiwata;
+    public void setNamawisata(String namawisata) {
+        this.namawisata = namawisata;
     }
 
-    public String getGambar_pariwisata() {
-        return gambar_pariwisata;
+    public String getDeskripsiwisata() {
+        return deskripsiwisata;
+    }
+
+    public void setDeskripsiwisata(String deskripsiwisata) {
+        this.deskripsiwisata = deskripsiwisata;
+    }
+
+    public String getAlamatwisata() {
+        return alamatwisata;
+    }
+
+    public void setAlamatwisata(String alamatwisata) {
+        this.alamatwisata = alamatwisata;
+    }
+
+    public Pariwisata(int image, String namawisata, String deskripsiwisata, String alamatwisata) {
+        this.image = image;
+        this.namawisata = namawisata;
+        this.deskripsiwisata = deskripsiwisata;
+        this.alamatwisata = alamatwisata;
     }
 }
