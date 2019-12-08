@@ -49,19 +49,19 @@
     </string-array>
 
     <string-array name="image">
-        <item>@drawable/kaliurang</item>
-        <item>@drawable/boko</item>
+        <item>@drawable/prambanantemple</item>
+        <item>@drawable/candisambisari</item>
         <item>@drawable/candiijo</item>
         <item>@drawable/candikalasan</item>
-        <item>@drawable/candisambisari</item>
-        <item>@drawable/gunungkidul</item>
-        <item>@drawable/keratonjogja</item>
-        <item>@drawable/pantaibaron</item>
+        <item>@drawable/boko</item>
         <item>@drawable/pantaidepok</item>
         <item>@drawable/parangtritis</item>
-        <item>@drawable/prambanantemple</item>
+        <item>@drawable/pantaibaron</item>
+        <item>@drawable/gunungkidul</item>
         <item>@drawable/sundak</item>
+        <item>@drawable/kaliurang</item>
         <item>@drawable/vredeburg</item>
+        <item>@drawable/keratonjogja</item>
 
     </string-array>
 </resources>
